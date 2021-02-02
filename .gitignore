@@ -1,0 +1,10 @@
+node_modules
+package-lock.json
+yarn.lock
+
+uploads/*.png
+uploads/*.jpg
+uploads/resized/*.png
+uploads/resized/*.jpg
+
+.env
